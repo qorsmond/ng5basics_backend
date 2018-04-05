@@ -1,0 +1,11 @@
+C:\Proto\backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+C:\Proto\backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+C:\Proto\backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+C:\Proto\backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+C:\Proto\backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojResolveAssemblyReference.cache
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+C:\Proto\backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
